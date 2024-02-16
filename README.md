@@ -44,7 +44,7 @@ To begin using WireHole, clone the repository and start the containers:
 #!/bin/bash
 
 # Clone the WireHole repository from GitHub
-git clone https://github.com/IAmStoxe/wirehole.git
+git clone https://github.com/oobs13/wirehole.git
 
 # Change directory to the cloned repository
 cd wirehole
